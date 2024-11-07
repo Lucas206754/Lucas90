@@ -1,4 +1,7 @@
 body {
     background: gray;
     color: darkred;
+    margin: 0px;
+    font-family: "itin", cursive;
+    margin-bottom: 112px;
 }
